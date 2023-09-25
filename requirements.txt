@@ -1,0 +1,13 @@
+spacy
+PyPDF2
+pytextrank
+pandas
+pdfminer
+PyPDF2
+spacy
+pandas
+yake
+rake-nltk
+tqdm
+nltk
+names-dataset==2.0.1
