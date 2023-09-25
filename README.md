@@ -9,7 +9,7 @@
 * 进入package目录使用pip install en_core_web_sm-3.6.0-py3-none-any.whl 命令进行安装
 
 ### 2、代码介绍
-* extract_utils.py 为wws所写代码，代码已跑通
+* extract_origin.py 为wws所写代码，代码已跑通
 
 * utils.py为更改后的代码
 
